@@ -20,7 +20,7 @@ This repository contains a simple implementation of the classic Tetris game in J
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
-- Any IDE or text editor for Java programming
+- JetBrains IntelliJ Idea for Java programming
 
 ---
 
@@ -98,11 +98,5 @@ The game board consists of a 10x20 grid where pieces are placed:
 3. Commit your changes (`git commit -m 'Add feature-name'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Create a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
