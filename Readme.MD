@@ -16,6 +16,7 @@ Here're some of the project's best features:
 *   Keyboard Controls: Arrow keys for movement. Rotate with the up arrow key.
 
 <h2>Prerequisites</h2>
-*   Java Development Kit (JDK) 8 or higher
-*   JetBrains IntelliJ IDE for Java programming
+
+*   Java Development Kit (JDK) 8 or higher.
+*   JetBrains IntelliJ IDE for Java programming.
 
