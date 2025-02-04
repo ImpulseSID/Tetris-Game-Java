@@ -1,4 +1,4 @@
-Tetris Game in Java
+#Tetris Game in Java
 
 This repository contains a simple implementation of the classic Tetris game in Java using javax.swing. The game is built as a JPanel and allows players to move and rotate Tetromino pieces as they fall onto a 10x20 grid.
 
