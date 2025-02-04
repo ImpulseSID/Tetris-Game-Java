@@ -14,3 +14,8 @@ Here're some of the project's best features:
 *   Game Over Detection: The game ends when no space is available for a new piece.
 *   Colorful Graphics: Each piece has a unique color.
 *   Keyboard Controls: Arrow keys for movement. Rotate with the up arrow key.
+
+<h2>Prerequisites</h2>
+*   Java Development Kit (JDK) 8 or higher
+*   JetBrains IntelliJ IDE for Java programming
+
